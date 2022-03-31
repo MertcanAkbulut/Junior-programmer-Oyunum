@@ -1,2 +1,1 @@
-# Junior-programmer-Oyunum
-Unity Junior Programmer eğitimi kapsamında geliştirdiğim oyun.(Unity Play linki read.me içinde)
+https://play.unity.com/mg/other/webgl-builds-171622
